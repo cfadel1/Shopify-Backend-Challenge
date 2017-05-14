@@ -1,0 +1,10 @@
+C:\Users\Cedric\Desktop\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Cedric\Desktop\Client\Client\bin\Debug\Client.exe
+C:\Users\Cedric\Desktop\Client\Client\bin\Debug\Client.pdb
+C:\Users\Cedric\Desktop\Client\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cedric\Desktop\Client\Client\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Cedric\Desktop\Client\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cedric\Desktop\Client\Client\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Cedric\Desktop\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Cedric\Desktop\Client\Client\obj\Debug\Client.exe
+C:\Users\Cedric\Desktop\Client\Client\obj\Debug\Client.pdb
