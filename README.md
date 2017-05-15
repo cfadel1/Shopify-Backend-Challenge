@@ -13,9 +13,9 @@ Read all orders from the paginated API. Any order without cookies can be fulfill
 
 ## What to submit:
 
-Output (in JSON)
+```Output (in JSON)
 
-```{
+{
   "remaining_cookies": "Amount of cookies remaining after trying to fulfill orders",
   "unfulfilled_orders": [ "IDs of the order that couldn't be fulfilled in ascending order" ]
 }```
@@ -26,7 +26,6 @@ The full solution is uploaded on github.
 To run, click on the client executable in the bin folder.
 
 ## Results
-
 
 ```{
   remaining_cookies: 0, 
