@@ -27,7 +27,7 @@ To run, click on the client executable in the bin folder.
 
 Results
 
-{ 
+{
   remaining_cookies: 0, 
   unfulfilled_orders: [ 7, 8, 11 ]
 }
