@@ -1,4 +1,4 @@
-# Shopify-Backend-Challenge
+# Shopify Backend Challenge
 
 ## Task
 
